@@ -9,6 +9,7 @@ targets:
     type: application
     platform: iOS
     sources: [App]
+    scheme: {}
     dependencies:
       - package: Adhan
       - target: Monitor
